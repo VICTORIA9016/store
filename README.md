@@ -1,5 +1,13 @@
 # store
 awesome new store
+
+<!-- 
+You can start by doing:
+
+  cd C:\Users\fucsi\OneDrive\Documents\storeElectric\api\my-project
+  yarn develop -->
+
+  
 <!-- Available commands in your project:
 
   yarn develop
